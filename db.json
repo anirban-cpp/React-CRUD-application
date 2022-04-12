@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Harry",
+      "email": "harry.potter@gmail.com",
+      "phone": 7565649484,
+      "address": "USA"
+    },
+    {
+      "name": "Anirban",
+      "email": "anirban@gmail.com",
+      "phone": "987654321",
+      "address": "Calcutta",
+      "id": 2
+    },
+    {
+      "name": "Test_user",
+      "email": "test_user@gmail.com",
+      "phone": "4587123659",
+      "address": "Spain",
+      "id": 3
+    }
+  ]
+}
